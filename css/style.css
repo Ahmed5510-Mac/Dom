@@ -1,0 +1,33 @@
+.item
+{
+    position: relative;
+    margin-top:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.item-caption
+{
+    position:absolute;
+    width :80%;
+    background-color:#fff;
+    z-index: 1;
+ 
+}
+h1
+{
+    background-color:#09c;
+}
+.one
+{
+    width: 200px;
+    height:200px;
+    background-color:#09c;
+}
+.rad
+{
+    border-radius:50%;
+    position: relative;
+    left:45%;
+    background-color:red;
+}
